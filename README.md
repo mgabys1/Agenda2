@@ -14,7 +14,7 @@ proporcionando una estructura inicial que se puede ampliar con funcionalidades a
 Antes de comenzar, asegúrese de tener instalado Node.js y npm. 
 Puede descargar Node.js (que incluye npm) desde [nodejs.org](https://nodejs.org/).
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
 
 src/app/home: Contiene los archivos relacionados con la página de inicio, donde están las tareas.
