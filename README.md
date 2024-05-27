@@ -75,3 +75,6 @@ FormsModule: Importa el módulo de formularios de Angular para soportar el enlac
 providers: Proporciona los servicios necesarios para la aplicación.
 RouteReuseStrategy: Estrategia de reutilización de rutas personalizada para Ionic.
 bootstrap: Especifica el componente raíz que Angular debe cargar al iniciar la aplicación. Aquí, se especifica AppComponent.
+
+## Error al Parsear localStorage
+Hubo un error al intentar parsear los datos de localStorage, por lo que se agregó:  try-catch para manejar errores en localStorage.
